@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">ScreenRecord_test_Binder</string>
+    <string name="hello_world">屏幕录制待命中...</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_screen_record">ScreenRecord</string>
+	<string name="btn1">开始录制</string>
+	<string name="btn2">停止录制</string>
+	<string name="tv2">文件存储到:/sdcard/</string>
+	<string name="et1">sr.mp4</string>
+</resources>
