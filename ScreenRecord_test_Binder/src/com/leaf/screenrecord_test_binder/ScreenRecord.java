@@ -16,11 +16,11 @@ import android.widget.EditText;
 import android.widget.TextView;
 public class ScreenRecord extends Activity {
 
-	Button btn1;
-	Button btn2;
-	IBinder binder;
-	EditText et1;
-	TextView tv1;
+    private Button btn1;
+    private Button btn2;
+    private IBinder binder;
+    private EditText et1;
+    private TextView tv1;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
